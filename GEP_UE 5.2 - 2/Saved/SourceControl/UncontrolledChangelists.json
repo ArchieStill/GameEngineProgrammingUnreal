@@ -1,0 +1,21 @@
+{
+	"version": 1,
+	"changelists": [
+		{
+			"guid": "00000000000000000000000000000000",
+			"description": "Default Uncontrolled Changelist",
+			"files": [
+				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Blueprints/Items/BP_ExampleItem.uasset",
+				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Input/Actions/IA_Inventory.uasset",
+				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Input/IMC_Player.uasset",
+				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Blueprints/Interfaces/UI_Inventory.uasset",
+				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Blueprints/Interfaces/UI_Test.uasset",
+				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Maps/StartingMap.umap",
+				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Blueprints/Essentials/GM_Gameplay.uasset",
+				"D:/GameEngineProgrammingUnreal/GEP_UE 5.2 - 2/Content/GEP/Maps/StartingMap.umap",
+				"D:/GameEngineProgrammingUnreal/GEP_UE 5.2 - 2/Content/GEP/Blueprints/Essentials/BP_PlayerController.uasset",
+				"D:/GameEngineProgrammingUnreal/GEP_UE 5.2 - 2/Content/GEP/Blueprints/Essentials/BP_PlayerCharacter.uasset"
+			]
+		}
+	]
+}
