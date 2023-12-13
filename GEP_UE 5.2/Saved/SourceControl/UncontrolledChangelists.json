@@ -5,6 +5,8 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
+				"C:/Users/Archie Still/Desktop/!UNI WORK/Second Year/Game Engine Programming/GameEngineProgrammingUnreal/GEP_UE 5.2 5.2/Content/GEP/Blueprints/Interfaces/UI_Hotbar.uasset",
+				"C:/Users/Archie Still/Desktop/!UNI WORK/Second Year/Game Engine Programming/GameEngineProgrammingUnreal/GEP_UE 5.2 5.2/Content/GEP/Blueprints/Essentials/BP_PlayerCharacter.uasset",
 				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Blueprints/Items/BP_ExampleItem.uasset",
 				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Input/Actions/IA_Inventory.uasset",
 				"D:/GameEngineProgrammingUnreal/GEP_UE/Content/GEP/Input/IMC_Player.uasset",
